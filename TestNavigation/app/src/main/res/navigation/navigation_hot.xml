@@ -3,7 +3,6 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/hot"
     app:startDestination="@id/hotFragment">
-
     <fragment
         android:id="@+id/hotFragment"
         android:name="com.dj.testnavigation.ui.hot.HotFragment"

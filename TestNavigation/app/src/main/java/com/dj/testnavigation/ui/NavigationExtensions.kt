@@ -17,6 +17,7 @@
 package com.dj.testnavigation.ui
 
 import android.content.Intent
+import android.util.Log
 import android.util.SparseArray
 import androidx.core.util.forEach
 import androidx.core.util.set
