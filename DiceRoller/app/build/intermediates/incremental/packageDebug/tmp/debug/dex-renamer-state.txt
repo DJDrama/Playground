@@ -1,0 +1,4 @@
+#Fri Apr 03 03:00:33 KST 2020
+base.0=/Users/dj/Desktop/AndroidStudioProjects/playground/DiceRoller/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
